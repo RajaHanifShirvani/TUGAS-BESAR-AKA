@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1734937766 source:d:\tubes aka\binary.cpp
+	"headerAKA.h"
+
+1734965472 d:\tubes aka\headeraka.h
+	<iostream>
+
+1734939515 source:d:\tubes aka\sequential.cpp
+	"headerAKA.h"
+
+1734942405 source:d:\tubes aka\aka\main.cpp
+	<iostream>
+	"../headerAKA.h"
+
